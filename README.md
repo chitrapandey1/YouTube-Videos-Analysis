@@ -2,7 +2,7 @@
 
 
 **_Objective_**:
-This project aims to leverage python libraries to create a youtube trending video analytics for US. 
+This project aims to leverage Python libraries to create a YouTube trending video analytics. 
 
 
 
@@ -30,6 +30,6 @@ There are two parts to this dataset:
 3. Emoji
 
 
-**_Findings_**:
+**_Analysis of Youtube Dataset_**:
 
-1. 
+For in-depth analysis, YouTube dataset is analyzed using bar graphs, histograms, word cloud, countplot, scatterplot, etc.
